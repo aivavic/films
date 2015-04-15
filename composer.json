@@ -1,0 +1,12 @@
+{
+  "name": "aivavic/films",
+  "description": "films and tvseries portal",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Viktor Afanasjev",
+      "email": "viktor85a@gmail.com"
+    }
+  ]
+}
